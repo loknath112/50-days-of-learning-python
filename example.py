@@ -13,3 +13,4 @@ elif marks >= 40:
     print("Grade: C")
 else:
     print("Grade: Fail")
+    #this code make a grade calculator that takes input from the user and outputs the corresponding grade based on the marks entered. It also checks for invalid input and handles it appropriately.
