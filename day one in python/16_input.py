@@ -1,5 +1,5 @@
-a = input("Enter a number 1 ")
-b = input("Enter a number 2 ")
+a =int( input("Enter a number 1 "))
+b =int( input("Enter a number 2 "))
 
 print("number a is :",a)
 print("number b is :",b)
