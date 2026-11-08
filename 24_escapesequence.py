@@ -1,3 +1,3 @@
 
-a = "loki is the good boy\n but not a bad boy"   
+a = "loki is the good boy\n but not a bad \"boy\""   
 print(a)
