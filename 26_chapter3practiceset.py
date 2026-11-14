@@ -14,3 +14,9 @@ print(letter.replace("<|Name|>", "LOKI").replace("<|Date|>", "13 november 2026")
 name = "loki is a good boy"#if we use double spance during typing this 
 #time  will be detected by the program
 print(name.find("  "))  # This will return the index of the first occurrence of double space, or -1 if not found    
+
+
+
+#replace double space with single space
+name = "loki  is a good boy" #if we use double spance during typing this
+print(name.replace("  ", " "))
